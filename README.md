@@ -296,3 +296,18 @@ This project demonstrates that airline customer satisfaction can be predicted wi
 - Proper preprocessing and validation are essential  
 
 The project follows academic best practices and provides a fully reproducible, leakage-free machine learning workflow suitable for university-level evaluation and real-world application.
+
+---
+
+## References
+
+[1] Huseyn, R. (n.d.). Airline Customer Satisfaction Dataset. Kaggle.  
+    https://www.kaggle.com/datasets/raminhuseyn/airline-customer-satisfaction
+    
+[2] Weychert, E. (n.d.). Machine Learning II [Lecture slides and code scripts].  
+    Master’s in Data Science and Business Analytics, University of Warsaw.
+
+[3] Sakowski, P. (n.d.). Machine Learning II [Lecture slides, code scripts, and presentations].  
+    Master’s in Data Science and Business Analytics, University of Warsaw.
+
+---
